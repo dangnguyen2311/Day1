@@ -6,4 +6,4 @@ print("End the Code")
 #commit: vào source code, gõ init commit, nhấn hộp commit, chọn push
 #tạo mới respority, sao chép link code(clone), vào cmd của Python_Projects, gõ git clone + link vừa sao chép#
 # gõ: pip install jupyter, sau đó gõ: python.exe -m pip install --upgrade pip
-#thaydổi thì chỉ có trên Pycharm
+#thay đổi thì chỉ có trên Pycharm
